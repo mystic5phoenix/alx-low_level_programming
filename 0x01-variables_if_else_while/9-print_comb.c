@@ -2,7 +2,7 @@
 
 /**
  *main - Entry point
- *Prints all possible combinations 
+ *Printing using putchar function
  *Return: Always 0 (Success)
  */
 int main(void)
