@@ -2,7 +2,7 @@
 
 /**
  *main - Entry point
- *prints all possible combinations of single-digit 
+ *Prints all possible combinations 
  *Return: Always 0 (Success)
  */
 int main(void)
