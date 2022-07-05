@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *
+ *main - Entry point
+ *prints sum of multiples of 3 and 5
+ *Return: 0 (Success)
  */
 int main(void)
 {
@@ -19,6 +20,6 @@ if (i % 15)
 m += i;
 }
 }
-printf("%d - %d", n, m);
+printf("%d", n);
 return (0);
 }
