@@ -18,6 +18,9 @@ if (n == 9)
 continue;
 printf(",");
 printf(" ");
+if (f >= 9)
+continue;
+printf(" ");
 }
 printf("\n");
 }
