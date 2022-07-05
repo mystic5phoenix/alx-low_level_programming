@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- *
- *
+ *print_to_98 - prints up until 98
+ *@n: our input
  */
 void print_to_98(int n)
 
