@@ -14,13 +14,9 @@ for (n = 0; n <= 9; n++)
 {
 f = i * n;
 printf("%d", f);
-if (n == 9)
-continue;
 printf(",");
 printf(" ");
-if (f >= 9)
-continue;
-printf(" ");
+
 }
 printf("\n");
 }
