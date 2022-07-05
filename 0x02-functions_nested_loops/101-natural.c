@@ -20,6 +20,6 @@ if (i % 15)
 m += i;
 }
 }
-printf("%d", n);
+printf("%d\n", n);
 return (0);
 }
