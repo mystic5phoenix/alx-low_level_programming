@@ -2,13 +2,12 @@
 #include "main.h"
 
 /**
- *main - Entry point
- *Print_alphabet is a user defined function
- *Return: void
+ *Print_alphabet - Entry point
+ *Prints the alphabet
  */
 void print_alphabet(void)
 
-{	
+{
 char c;
 for (c = 'a'; c <= 'z'; c++)
 {
