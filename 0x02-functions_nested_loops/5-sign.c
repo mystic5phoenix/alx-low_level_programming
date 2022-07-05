@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- *print_sign -
- *@n: 
- *Return: 
+ *print_sign - prints the signs of input
+ *@n: the checked integer
+ *Return: 1, 0, -1 are the values
  */
 int print_sign(int n)
 
