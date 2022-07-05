@@ -4,8 +4,10 @@
 /**
  *main - Entry point
  *Print_alphabet is a user defined function
+ *Return: void
  */
 void print_alphabet(void)
+
 {	
 char c;
 for (c = 'a'; c <= 'z'; c++)
