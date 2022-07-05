@@ -14,7 +14,7 @@ while (i < 10)
 {
 for (c = 'a'; c <= 'z'; c++)
 {
-printf("%c", c);
+_putchar(c);
 }
 printf("\n");
 i++;
