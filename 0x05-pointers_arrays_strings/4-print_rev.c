@@ -3,18 +3,19 @@
 #include "main.h"
 
 /**
- *
- *
+ *print_rev - function to print rev
+ *@s: character pointer
+ *Return: void
  */
 void print_rev(char *s)
 
 {
-int l;
+int l, a;
 l = strlen(s);
-l = l - 1;
-while (l >= 0)
+a = l - 1;
+while (a >= 0)
 {
-_putchar(*(s + l));
+_putchar(*(s + a));
 s--;
 }
 _putchar('\n');
